@@ -14,7 +14,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Animated Login Form</title>
+	<title>Acceuil</title>
 	<link rel="stylesheet" href="css/style.css">
 </head>
 
